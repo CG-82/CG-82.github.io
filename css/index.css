@@ -1,0 +1,42 @@
+@import url("./reset.css");
+
+body {
+    background-color: darkblue;
+    color: white;
+}
+
+img {
+    max-width: 300px;
+    max-height: 300px;
+    margin:20px;
+    
+}
+
+.content-box {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+    margin: 20px;
+    border: 2px solid white;
+}
+
+header {
+    font-size: 2em;
+    margin: 20px;
+}
+
+.personal-details {
+    margin:20px;
+}
+
+.links {
+    margin:20px;
+    display: flex; 
+    flex-direction: column; 
+}
+
+@media screen and (min-width: 500px) {
+    
+}
+

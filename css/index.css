@@ -1,7 +1,7 @@
 @import url("./reset.css");
 
 body {
-    background: linear-gradient(135deg, darkblue, #1e90ff, #87cefa);
+    background: linear-gradient(135deg, #00008b, #1e90ff, #87cefa);
     color: white;
 }
     

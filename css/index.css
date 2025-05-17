@@ -1,4 +1,4 @@
-@import url("./reset.css");
+@import url("reset.css");
 
 body {
     background: linear-gradient(135deg, #00008b, #1e90ff, #87cefa);
@@ -40,7 +40,8 @@ header {
 @media screen and (min-width: 760px) {
     .content-box {
         position: relative;
-        min-height: 400px;
+        min-height: 500px;
+
     }
     .personal-details {
         position: absolute;
